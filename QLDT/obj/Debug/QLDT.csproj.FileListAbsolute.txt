@@ -1,0 +1,13 @@
+E:\Dev\QLDT\QLDT\bin\Debug\QLDT.exe.config
+E:\Dev\QLDT\QLDT\bin\Debug\QLDT.exe
+E:\Dev\QLDT\QLDT\bin\Debug\QLDT.pdb
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.GUI.frmDangNhap.resources
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.frmMenu.resources
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.Cache
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.exe
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.GUI.frmSinhVien.resources
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.GUI.frmDiem.resources
+E:\Dev\QLDT\QLDT\obj\Debug\QLDT.GUI.frmXetTotNghiep.resources
